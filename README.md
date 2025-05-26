@@ -40,7 +40,7 @@ Saya melakukan penyesuaian struktur halaman, desain tampilan, serta penambahan f
 
 Karena ukuran file melebihi batas GitHub, seluruh file skripsi tersedia dalam file `.rar` di Google Drive berikut:
 
-🔗 **[Download skripsi-syafiq.zip (Google Drive)](https://drive.google.com/file/d/1mH4e14BfgfdsGUAJzPKrUweKZnI0yvuq/view?usp=sharing)**
+🔗 **[Download skripsi-syafiq.rar (Google Drive)](https://drive.google.com/file/d/1mH4e14BfgfdsGUAJzPKrUweKZnI0yvuq/view?usp=sharing)**
 
 **Isi file:**
 - Source code website
